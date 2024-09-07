@@ -1,5 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap");
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.main-container {
+  background-image: url(/bg-pattern-top.svg), url(/bg-pattern-bottom.svg);
+  background-position: calc(-978px + 50vw) -490px, 50vw calc(100vh - 490px);
+  background-repeat: no-repeat;
+  background-color: #009caa;
+}
