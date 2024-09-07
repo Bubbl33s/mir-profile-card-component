@@ -30,7 +30,6 @@ This is a solution to the '**Product Preview Card**' project of the Make It Real
 
 <img src="./design/desktop-design.jpg" width="74%" />
 <img src="./design/mobile-design.jpg" width="23%" />
-<img src="./design/active-states.jpg" width="800px" />
 
 ## Actual result
 
@@ -49,13 +48,9 @@ This is a solution to the '**Product Preview Card**' project of the Make It Real
   <img src="./design/ipad-mini-result.png" width="55%" />
   <img src="./design/iphone-se-result.png" width="41%" />
 
-- Status
-  <br />
-  <img src="./design/status-1.png" />
-
 ### Deploy
 
-**[Go to site](https://main--cosmic-torrone-4cbe51.netlify.app/)** ↗️
+**[Go to site](https://main--clever-bonbon-5a3329.netlify.app/)** ↗️
 
 ## My process
 
@@ -80,6 +75,7 @@ This is a solution to the '**Product Preview Card**' project of the Make It Real
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Documentation
 - [Google Fonts](https://fonts.google.com/) - It provided the main font used in the project.
+- [Color Picker](https://snapcraft.io/color-picker) - Color Picker
 - [Optimizilla](https://imagecompressor.com/) - To optimize the screenshots.
 - [Tailwind CSS Docs](https://tailwindcss.com/docs/installation) - Documentation
 - [Netlify](https://www.netlify.com/) - Deploy
