@@ -28,8 +28,8 @@ This is a solution to the '**Product Preview Card**' project of the Make It Real
 
 ### Expected result
 
-<img src="./design/desktop-design.jpg" width="74%" />
-<img src="./design/mobile-design.jpg" width="23%" />
+<img src="./design/desktop-design.jpg" width="77%" />
+<img src="./design/mobile-design.jpg" width="22%" />
 
 ## Actual result
 
